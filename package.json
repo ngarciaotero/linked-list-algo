@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Implementation of linked list algorithm",
   "private": true,
+  "type": "module",
   "dependencies": {
     "eslint": "^9.4.0"
   },
