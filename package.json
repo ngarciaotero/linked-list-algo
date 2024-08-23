@@ -1,10 +1,11 @@
 {
+  "name": "linked-list-algo",
+  "version": "1.0.0",
+  "description": "Implementation of linked list algorithm",
+  "private": true,
   "dependencies": {
     "eslint": "^9.4.0"
   },
-  "name": "webpack-starter-template",
-  "version": "1.0.0",
-  "private": true,
   "devDependencies": {
     "css-loader": "^7.1.2",
     "html-loader": "^5.1.0",
@@ -22,6 +23,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
